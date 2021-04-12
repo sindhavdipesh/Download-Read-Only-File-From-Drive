@@ -7,6 +7,7 @@
 ### 3.  Inspect Page Using Ctrl+Shift+I
 ### 4.  Go To Console Part
 ### 5.  Insert Code In Plain Area ( You Can See This Sign ">" ... Just Paste Code There )
+###     You Can Get Code From Here [Code] (https://github.com/sindhavdipesh/Download-Read-Only-File-From-Drive/blob/main/Code)
 ### 6.  Go To Read Only File And Scron Down Conntinuesly With The Help Of Down Arrow Key
 ### 7.  Again Go To Console Part And Just Press Enter Key
 ### 8.  Within A Few Seconds You Will Get Pop-Up For Save File PDF
